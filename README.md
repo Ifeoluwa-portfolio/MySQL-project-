@@ -12,3 +12,7 @@ This project includes SQL Queries, tables and sample databases for analysis.
 - ORDER BY for sorting results
 - common table expression (CTEs)
 - pattern matching with LIKE
+
+
+## Preview
+https://github.com/Ifeoluwa-portfolio/MySQL-project-/blob/main/SQL_PROJECT.sql
